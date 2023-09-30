@@ -1,0 +1,22 @@
+# TODOs
+- Weather cli (DONE)
+- Download-from-Youtube cli (DONE)
+- Translate cli (DONE)
+- Weather telegram bot (DONE)
+- Know all about Django (DONE)
+- Know all about PyGame (DONE)
+- Living in terminal (DONE)
+- Big telegramm bot
+- Know all about data analysis
+- Know all about machine learning
+- Know all about Docker
+- Know all about Kubernetes
+- Know all about Terraform
+- Know all about Git
+- Know all about Azure, AWS, Google Cloud
+- Know all about network
+- Know all about Ansible
+- Know all about CI/CD tools
+- Know all about other DevOps tools
+- Project with data analysis
+- Project with machine learning
