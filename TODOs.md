@@ -1,4 +1,5 @@
 # TODOs
+- Learn Python (DONE)
 - Weather cli (DONE)
 - Download-from-Youtube cli (DONE)
 - Translate cli (DONE)
@@ -6,7 +7,9 @@
 - Know all about Django (DONE)
 - Know all about PyGame (DONE)
 - Living in terminal (DONE)
+- Know all about SQLite3 (DONE)
 - Big telegramm bot
+- Know all abou SQL
 - Know all about data analysis
 - Know all about machine learning
 - Know all about Docker
@@ -20,3 +23,4 @@
 - Know all about other DevOps tools
 - Project with data analysis
 - Project with machine learning
+- Other projects...
