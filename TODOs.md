@@ -4,14 +4,19 @@
 - Download-from-Youtube cli (DONE)
 - Translate cli (DONE)
 - Weather telegram bot (DONE)
-- Know all about Django (DONE)
-- Know all about PyGame (DONE)
+- Learn Django (DONE)
+- Learn PyGame (DONE)
 - Living in terminal (DONE)
-- Know all about SQLite3 (DONE)
+- Learn SQLite3 (DONE)
+- Know all about NumPy (DONE)
+- Know all about Pandas
+- Know all about Matplotlib
+- Know all about SciKit-learning
+- Big AI-model
 - Big telegramm bot
 - Know all abou SQL
-- Know all about data analysis
-- Know all about machine learning
+- Know all about Data Analysis
+- Know all about Machine Learning
 - Know all about Docker
 - Know all about Kubernetes
 - Know all about Terraform
