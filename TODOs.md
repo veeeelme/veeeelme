@@ -1,15 +1,16 @@
 # TODOs
 - Learn Python (DONE)
-- Weather cli (DONE)
-- Download-from-Youtube cli (DONE)
-- Translate cli (DONE)
+- Weather CLI (DONE)
+- Download-from-Youtube CLI (DONE)
+- Translate CLI (DONE)
+- Currency converter CLI (DONE)
 - Weather telegram bot (DONE)
 - Learn Django (DONE)
 - Learn PyGame (DONE)
 - Living in terminal (DONE)
 - Learn SQLite3 (DONE)
 - Know all about NumPy (DONE)
-- Know all about Pandas
+- Know all about Pandas (DONE)
 - Know all about Matplotlib
 - Know all about SciKit-learning
 - Big AI-model
