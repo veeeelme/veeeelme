@@ -14,6 +14,7 @@
 - Know all about Matplotlib
 - Know all about SciKit-learning
 - Big AI-model
+- Some pet-projects
 - Big telegramm bot
 - Know all abou SQL
 - Know all about Data Analysis
