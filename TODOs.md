@@ -7,12 +7,17 @@
 - Weather telegram bot (DONE)
 - Learn Django (DONE)
 - Learn PyGame (DONE)
-- Living in terminal (DONE)
+- Live in terminal (DONE)
 - Learn SQLite3 (DONE)
 - Know all about NumPy (DONE)
 - Know all about Pandas (DONE)
 - Know all about Matplotlib
 - Know all about SciKit-learning
+- Learn Computer Science
+- Learn Algorithms
+- Learn all about OOP
+- Learn multithreading
+- Learn math for programming
 - Big AI-model
 - Some pet-projects
 - Big telegramm bot
@@ -28,6 +33,5 @@
 - Know all about Ansible
 - Know all about CI/CD tools
 - Know all about other DevOps tools
-- Project with data analysis
 - Project with machine learning
 - Other projects...
