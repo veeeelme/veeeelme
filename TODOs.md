@@ -11,10 +11,10 @@
 - Learn SQLite3 (DONE)
 - Know all about NumPy (DONE)
 - Know all about Pandas (DONE)
+- Voice Assistant (DONE)
+- Know all about Matplotlib (DONE)
 - METAR Decoder
 - Access to Meteorology, Satellites Monitoring, Aviation, and some NASA APIs in one place
-- Voice Assistant
-- Know all about Matplotlib
 - Know all about SciKit-learning
 - Learn Computer Science
 - Learn Algorithms
